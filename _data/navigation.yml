@@ -1,0 +1,60 @@
+# main links
+main:
+  # - title: "About"
+  #  url: http://www.aboutuju.site
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: Customization
+  #   children:
+  #     - title: "Configuration"
+  #       url: /docs/configuration/
+  #     - title: "Navigation"
+  #       url: /docs/navigation/
+  #     - title: "UI Text"
+  #       url: /docs/ui-text/
+  #     - title: "Authors"
+  #       url: /docs/authors/
+  #     - title: "Layouts"
+  #       url: /docs/layouts/
+
+#main:
+#  - title: "카테고리별 보기"
+#    url: https://focusly777.github.io/categories/
+  #- title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  # - title: "시리즈 -  Dart&Flutter"
+  #   url: https://focusly777.github.io/categories/#dart-class
+  #   children:
+  #     - title: "void main & Scaffold"
+  #       url: https://focusly777.github.io/dartclass1/
+
+  - title: TECH
+    children:
+      - title: "객체지향언어"
+        url: https://focusly777.github.io/categories/#객체지향프로그래밍
+      - title: "dart&flutter"
+        url: https://focusly777.github.io/categories/#dart
+      - title: "dart&flutter-class"
+        url: https://focusly777.github.io/categories/#dart-class
+      - title: "개발관련"
+        url: https://focusly777.github.io/categories/#page-title
+  - title: ART
+    url: https://focusly777.github.io/categories/#art
+    children:
+      - title: "ART관련"
+        url: https://focusly777.github.io/categories/#art
+      - title: "메타버스와 융합"
+        url: https://focusly777.github.io/splash-page2/
+      # - title: "(카테고리별 보기)"
+      #   url: https://focusly777.github.io/categories/
+              
+  - title: (카테고리별보기)
+    url: https://focusly777.github.io/categories/#page-title
